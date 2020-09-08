@@ -1,8 +1,8 @@
 import React from 'react';
 import ReacrtDOM from 'react-dom'
 
-import helloworldw from './components/helloworldw';
+import A from './components/A';
 
 ReacrtDOM.render(
-  < helloworldw />, document.getElementById(app)
+  < A />, document.getElementById(app)
 );
